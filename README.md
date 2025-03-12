@@ -7,7 +7,7 @@
 ## 📝 **Information Section**
 
 ### **What is RLDownloader?**
-RLDownloader is a Python-based tool designed to simplify the downloading and setup of various screensharing and forensic tools
+RLDownloader is a Python-based tool designed to simplify the downloading and setup of various screen sharing and forensic tools
 
 ---
 
@@ -17,12 +17,7 @@ RLDownloader is a Python-based tool designed to simplify the downloading and set
    - Ensure you have Python 3.13 or higher installed.
 
 2. **Download RLDownloader**:
-   - Clone the repository:
-     ```bash
-     git clone https://github.com/your-repo/RLDownloader.git
-     cd RLDownloader
-     ```
-    - Or just simply download it from the [Releases](https://github.com/ElliotZaychik/RLDownloader/releases) tab
+    - download it from the [Releases](https://github.com/ElliotZaychik/RLDownloader/releases) tab
 
 3. **Run the Tool**:
    - Execute the script:
