@@ -72,5 +72,3 @@ RLDownloader is a Python-based tool designed to simplify the downloading and set
     <td align="center"></td>
   </tr>
 </table>
-
----
