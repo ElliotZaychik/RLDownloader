@@ -22,7 +22,7 @@ RLDownloader is a Python-based tool designed to simplify the downloading and set
 3. **Run the Tool**:
    - Execute the script:
      ```bash
-     py DFIRdownloader.py
+     py <filename>.py
      ```
 
 ---
