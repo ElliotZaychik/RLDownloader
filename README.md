@@ -41,6 +41,8 @@ RLDownloader is a Python-based tool designed to simplify the downloading and set
     <td align="center">Winprefetchview</td>
     <td align="center">BAM-Parser</td>
     <td align="center">Hayabusa</td>
+   <td align="center">Everything</td>
+   <td align="center">Redlotus Tools</td>
   </tr>
   <tr>
     <td align="center">Bstrings</td>
